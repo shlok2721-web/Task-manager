@@ -1,0 +1,22 @@
+window {
+  font-feature-settings: "tnum";
+}
+
+.tm-window-title {
+  font-weight: 700;
+}
+
+.tm-sidebar {
+  padding: 10px 8px;
+}
+
+.tm-sidebar > button {
+  margin: 2px 0;
+  border-radius: 10px;
+  padding: 8px 10px;
+}
+
+.tm-graph {
+  border-radius: 10px;
+  min-height: 100px;
+}
